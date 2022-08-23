@@ -1,5 +1,3 @@
-:set paste
-i
 #ifndef LISTS_H
 #define LISTS_H
 
