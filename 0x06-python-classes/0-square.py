@@ -1,8 +1,13 @@
 #!/usr/bin/python3
-# 0-square.py by Amuah Glory
-"""Defines a square """
+
+"""Define a class Square"""
 
 
 class Square:
-    """Does nothing"""
-    pass
+    """Empty class"""
+    def __int__(self):
+        pass
+
+
+if __name__ == "__main__":
+    Square()
