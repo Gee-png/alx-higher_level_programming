@@ -1,13 +1,7 @@
-#!/usr/bin/python3
-
-"""Define a class Square"""
+quare.py by Uriel
+"""Defines a square """
 
 
 class Square:
-    """Empty class"""
-    def __int__(self):
-        pass
-
-
-if __name__ == "__main__":
-    Square()
+    """Does nothing"""
+    pass
